@@ -60,7 +60,6 @@
 		2EAAF1321F9883D7007E9FE0 /* AnnotatedPhotoCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2EAAF1301F9883D7007E9FE0 /* AnnotatedPhotoCell.xib */; };
 		2EAAF1341F9884FD007E9FE0 /* RoundedCornersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EAAF1331F9884FD007E9FE0 /* RoundedCornersView.swift */; };
 		2EAAF1361F988532007E9FE0 /* Photos.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2EAAF1351F988532007E9FE0 /* Photos.plist */; };
-		2ECE2A2C1F9053F800DABB35 /* YMMApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ECE2A2B1F9053F800DABB35 /* YMMApiManager.swift */; };
 		2EE9AC5D1F8F6E32007D56DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE9AC5C1F8F6E32007D56DD /* AppDelegate.swift */; };
 		2EE9AC5F1F8F6E32007D56DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE9AC5E1F8F6E32007D56DD /* ViewController.swift */; };
 		2EE9AC621F8F6E32007D56DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EE9AC601F8F6E32007D56DD /* Main.storyboard */; };
@@ -77,7 +76,8 @@
 		2EE9ADA71F8F7B9C007D56DD /* MyselfViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE9ADA61F8F7B9C007D56DD /* MyselfViewController.swift */; };
 		2EE9ADA91F8F7BAB007D56DD /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE9ADA81F8F7BAB007D56DD /* BaseViewController.swift */; };
 		2EE9ADAB1F8F7C3F007D56DD /* ArticleDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE9ADAA1F8F7C3F007D56DD /* ArticleDetailViewController.swift */; };
-		2EE9ADB51F8F7E37007D56DD /* YMHURLDefine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE9ADB41F8F7E37007D56DD /* YMHURLDefine.swift */; };
+		2EF9D8A41F98B48F00FA53CC /* YMMApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF9D8A01F98B48F00FA53CC /* YMMApiManager.swift */; };
+		2EF9D8A51F98B48F00FA53CC /* YMHURLDefine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF9D8A31F98B48F00FA53CC /* YMHURLDefine.swift */; };
 		A315A9F50A3359996F4A8FD7 /* Pods_Art.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD332027BB58A53EECED5423 /* Pods_Art.framework */; };
 /* End PBXBuildFile section */
 
@@ -153,7 +153,6 @@
 		2EAAF1301F9883D7007E9FE0 /* AnnotatedPhotoCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AnnotatedPhotoCell.xib; sourceTree = "<group>"; };
 		2EAAF1331F9884FD007E9FE0 /* RoundedCornersView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundedCornersView.swift; sourceTree = "<group>"; };
 		2EAAF1351F988532007E9FE0 /* Photos.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Photos.plist; sourceTree = "<group>"; };
-		2ECE2A2B1F9053F800DABB35 /* YMMApiManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YMMApiManager.swift; sourceTree = "<group>"; };
 		2EE9AC591F8F6E32007D56DD /* Art.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Art.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EE9AC5C1F8F6E32007D56DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2EE9AC5E1F8F6E32007D56DD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -419,7 +418,8 @@
 		2EE9ADA61F8F7B9C007D56DD /* MyselfViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyselfViewController.swift; sourceTree = "<group>"; };
 		2EE9ADA81F8F7BAB007D56DD /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		2EE9ADAA1F8F7C3F007D56DD /* ArticleDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleDetailViewController.swift; sourceTree = "<group>"; };
-		2EE9ADB41F8F7E37007D56DD /* YMHURLDefine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YMHURLDefine.swift; sourceTree = "<group>"; };
+		2EF9D8A01F98B48F00FA53CC /* YMMApiManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YMMApiManager.swift; sourceTree = "<group>"; };
+		2EF9D8A31F98B48F00FA53CC /* YMHURLDefine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YMHURLDefine.swift; sourceTree = "<group>"; };
 		B95A1C6CCC35B6E1EE03485B /* Pods-Art.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Art.release.xcconfig"; path = "Pods/Target Support Files/Pods-Art/Pods-Art.release.xcconfig"; sourceTree = "<group>"; };
 		CD332027BB58A53EECED5423 /* Pods_Art.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Art.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D22E8A88E406C25547F7BEB9 /* Pods-Art.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Art.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Art/Pods-Art.debug.xcconfig"; sourceTree = "<group>"; };
@@ -540,9 +540,9 @@
 			children = (
 				2EE9AC5C1F8F6E32007D56DD /* AppDelegate.swift */,
 				2EE9AC5E1F8F6E32007D56DD /* ViewController.swift */,
+				2EF9D89D1F98B48F00FA53CC /* Core */,
 				2E6611911F95FA6C004D06C2 /* Demo */,
 				2EE9ADAE1F8F7CDD007D56DD /* Vender */,
-				2EE9ADAF1F8F7CE0007D56DD /* Core */,
 				2EE9ADAD1F8F7CCB007D56DD /* Base */,
 				2EE9ADAC1F8F7C70007D56DD /* Models */,
 				2EE9ADB61F8F8041007D56DD /* Modules */,
@@ -1062,48 +1062,6 @@
 			path = Vender;
 			sourceTree = "<group>";
 		};
-		2EE9ADAF1F8F7CE0007D56DD /* Core */ = {
-			isa = PBXGroup;
-			children = (
-				2EE9ADB21F8F7D1B007D56DD /* YMMConfig */,
-				2EE9ADB11F8F7D17007D56DD /* YMMDefine */,
-				2EE9ADB31F8F7D54007D56DD /* DBManager */,
-				2EE9ADB01F8F7D0E007D56DD /* Network */,
-			);
-			name = Core;
-			path = "New Group/Core";
-			sourceTree = "<group>";
-		};
-		2EE9ADB01F8F7D0E007D56DD /* Network */ = {
-			isa = PBXGroup;
-			children = (
-				2ECE2A2B1F9053F800DABB35 /* YMMApiManager.swift */,
-			);
-			path = Network;
-			sourceTree = "<group>";
-		};
-		2EE9ADB11F8F7D17007D56DD /* YMMDefine */ = {
-			isa = PBXGroup;
-			children = (
-				2EE9ADB41F8F7E37007D56DD /* YMHURLDefine.swift */,
-			);
-			path = YMMDefine;
-			sourceTree = "<group>";
-		};
-		2EE9ADB21F8F7D1B007D56DD /* YMMConfig */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = YMMConfig;
-			sourceTree = "<group>";
-		};
-		2EE9ADB31F8F7D54007D56DD /* DBManager */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = DBManager;
-			sourceTree = "<group>";
-		};
 		2EE9ADB61F8F8041007D56DD /* Modules */ = {
 			isa = PBXGroup;
 			children = (
@@ -1164,6 +1122,47 @@
 				2EE9ADA61F8F7B9C007D56DD /* MyselfViewController.swift */,
 			);
 			path = Myself;
+			sourceTree = "<group>";
+		};
+		2EF9D89D1F98B48F00FA53CC /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				2EF9D89E1F98B48F00FA53CC /* DBManager */,
+				2EF9D89F1F98B48F00FA53CC /* Network */,
+				2EF9D8A11F98B48F00FA53CC /* YMMConfig */,
+				2EF9D8A21F98B48F00FA53CC /* YMMDefine */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		2EF9D89E1F98B48F00FA53CC /* DBManager */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = DBManager;
+			sourceTree = "<group>";
+		};
+		2EF9D89F1F98B48F00FA53CC /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				2EF9D8A01F98B48F00FA53CC /* YMMApiManager.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		2EF9D8A11F98B48F00FA53CC /* YMMConfig */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = YMMConfig;
+			sourceTree = "<group>";
+		};
+		2EF9D8A21F98B48F00FA53CC /* YMMDefine */ = {
+			isa = PBXGroup;
+			children = (
+				2EF9D8A31F98B48F00FA53CC /* YMHURLDefine.swift */,
+			);
+			path = YMMDefine;
 			sourceTree = "<group>";
 		};
 		441BA6568523F005E8F687E4 /* Frameworks */ = {
@@ -1439,14 +1438,14 @@
 				2EAAF1311F9883D7007E9FE0 /* AnnotatedPhotoCell.swift in Sources */,
 				2EE9ADA91F8F7BAB007D56DD /* BaseViewController.swift in Sources */,
 				2E168FB51F96F88700ACAC4A /* Artist.swift in Sources */,
-				2ECE2A2C1F9053F800DABB35 /* YMMApiManager.swift in Sources */,
 				2EE9ADA31F8F7B70007D56DD /* DiscoveryViewController.swift in Sources */,
 				2E66118C1F95F83A004D06C2 /* Product.swift in Sources */,
 				2EE9AD9D1F8F7A37007D56DD /* Tags.swift in Sources */,
 				2E168FBB1F9729F800ACAC4A /* TabBarViewController.swift in Sources */,
 				2E9F6EF91F95E3CC0042E4DC /* Status.swift in Sources */,
+				2EF9D8A51F98B48F00FA53CC /* YMHURLDefine.swift in Sources */,
+				2EF9D8A41F98B48F00FA53CC /* YMMApiManager.swift in Sources */,
 				2EE9AD991F8F7A05007D56DD /* Works.swift in Sources */,
-				2EE9ADB51F8F7E37007D56DD /* YMHURLDefine.swift in Sources */,
 				2EE9AD9F1F8F7B08007D56DD /* HomeViewController.swift in Sources */,
 				2EAAF12C1F988311007E9FE0 /* UIImage+Decompression.swift in Sources */,
 				2EE9ADAB1F8F7C3F007D56DD /* ArticleDetailViewController.swift in Sources */,
