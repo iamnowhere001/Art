@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="AvenirNext.ttc">
+            <string>AvenirNext-DemiBold</string>
+            <string>AvenirNext-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="AnnotatedPhotoCell" id="xOz-nM-KdJ" customClass="AnnotatedPhotoCell" customModule="Pinterest" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="180" height="180"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="180" height="180"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleAspectFit" translatesAutoresizingMaskIntoConstraints="NO" id="MRq-TV-22Z" customClass="RoundedCornersView" customModule="Pinterest" customModuleProvider="target">
+                        <rect key="frame" x="0.0" y="0.0" width="180" height="180"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="idm-lM-F3U">
+                                <rect key="frame" x="0.0" y="0.0" width="180" height="120"/>
+                                <color key="backgroundColor" red="0.047143883999999997" green="0.36116248369999998" blue="0.163305968" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="120" id="FN0-5Z-T4r"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Caption" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YZD-5f-aKw">
+                                <rect key="frame" x="4" y="124" width="172" height="17"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="17" id="DG7-fc-sG7"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="AvenirNext-DemiBold" family="Avenir Next" pointSize="12"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Comment" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="I9k-DR-R5L">
+                                <rect key="frame" x="4" y="141" width="172" height="14"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="10"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.047143883999999997" green="0.36116248369999998" blue="0.163305968" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="YZD-5f-aKw" firstAttribute="top" secondItem="idm-lM-F3U" secondAttribute="bottom" constant="4" id="4Tp-9y-6u5"/>
+                            <constraint firstItem="I9k-DR-R5L" firstAttribute="top" secondItem="YZD-5f-aKw" secondAttribute="bottom" id="6dF-VJ-eg6"/>
+                            <constraint firstItem="idm-lM-F3U" firstAttribute="leading" secondItem="MRq-TV-22Z" secondAttribute="leading" id="DgV-kR-LEB"/>
+                            <constraint firstItem="idm-lM-F3U" firstAttribute="top" secondItem="MRq-TV-22Z" secondAttribute="top" id="PZF-6T-g5F"/>
+                            <constraint firstAttribute="trailing" secondItem="idm-lM-F3U" secondAttribute="trailing" id="PiO-IA-LKW"/>
+                            <constraint firstAttribute="trailing" secondItem="YZD-5f-aKw" secondAttribute="trailing" constant="4" id="f7O-g1-3UY"/>
+                            <constraint firstItem="I9k-DR-R5L" firstAttribute="leading" secondItem="MRq-TV-22Z" secondAttribute="leading" constant="4" id="t9E-9W-L3K"/>
+                            <constraint firstItem="YZD-5f-aKw" firstAttribute="leading" secondItem="MRq-TV-22Z" secondAttribute="leading" constant="4" id="usE-Jy-27S"/>
+                            <constraint firstAttribute="trailing" secondItem="I9k-DR-R5L" secondAttribute="trailing" constant="4" id="vII-yk-wbn"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="MRq-TV-22Z" secondAttribute="bottom" id="LPm-Gk-gEZ"/>
+                <constraint firstAttribute="trailing" secondItem="MRq-TV-22Z" secondAttribute="trailing" id="lAi-Me-Qy1"/>
+                <constraint firstItem="MRq-TV-22Z" firstAttribute="top" secondItem="xOz-nM-KdJ" secondAttribute="top" id="z8l-fL-Xic"/>
+                <constraint firstItem="MRq-TV-22Z" firstAttribute="leading" secondItem="xOz-nM-KdJ" secondAttribute="leading" id="zpt-rp-QKF"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="zO1-VP-Qyz"/>
+            <size key="customSize" width="180" height="180"/>
+            <connections>
+                <outlet property="captionLabel" destination="YZD-5f-aKw" id="pQH-aI-djD"/>
+                <outlet property="commentLabel" destination="I9k-DR-R5L" id="tUu-Da-pc3"/>
+                <outlet property="imageView" destination="idm-lM-F3U" id="RGp-R3-Mpc"/>
+                <outlet property="imageViewHeightLayoutConstraint" destination="FN0-5Z-T4r" id="fJc-Gr-cCG"/>
+            </connections>
+        </collectionViewCell>
+    </objects>
+</document>

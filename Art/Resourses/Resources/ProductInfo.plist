@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Id</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>iPhone 7</string>
+		<key>image</key>
+		<string>p1.jpg</string>
+		<key>text</key>
+		<string>【下单减200】Apple/苹果 iPhone 7 128G 全网通4G智能手机</string>
+		<key>price</key>
+		<integer>6888</integer>
+		<key>sale</key>
+		<integer>9812</integer>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>MacBook Pro</string>
+		<key>image</key>
+		<string>p2.jpg</string>
+		<key>text</key>
+		<string>Apple/苹果 13 英寸：MacBook Pro Multi-Touch Bar 和 Touch ID 2.9GHz 处理器 256GB 存储容量</string>
+		<key>price</key>
+		<integer>13888</integer>
+		<key>sale</key>
+		<integer>8988</integer>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>iPad Air 2</string>
+		<key>image</key>
+		<string>p3.jpg</string>
+		<key>text</key>
+		<string>国行Apple/苹果 iPad Air 2 32G 128G9.7英寸10平板电脑WIFIipad6</string>
+		<key>price</key>
+		<integer>3888</integer>
+		<key>sale</key>
+		<integer>7812</integer>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Apple Watch 2</string>
+		<key>image</key>
+		<string>p4.jpg</string>
+		<key>text</key>
+		<string>Apple/苹果 Apple Watch Series 2 智能手表42mm</string>
+		<key>price</key>
+		<integer>4299</integer>
+		<key>sale</key>
+		<integer>7612</integer>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>iPod nano</string>
+		<key>image</key>
+		<string>p5.jpg</string>
+		<key>text</key>
+		<string>Apple/苹果MP3 iPod nano 16GB mp3/4 随身听 音乐播放器</string>
+		<key>price</key>
+		<integer>1088</integer>
+		<key>sale</key>
+		<integer>5888</integer>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>6</integer>
+		<key>name</key>
+		<string>Magic Mouse</string>
+		<key>image</key>
+		<string>p6.jpg</string>
+		<key>text</key>
+		<string>【下单减200】Apple/苹果 iPhone 7 128G 全网通4G智能手机</string>
+		<key>price</key>
+		<integer>588</integer>
+		<key>sale</key>
+		<integer>5235</integer>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>7</integer>
+		<key>name</key>
+		<string>Sony A7</string>
+		<key>image</key>
+		<string>p7.jpg</string>
+		<key>text</key>
+		<string>[分期免息]Sony/索尼 ILCE-7K套机(28-70mm) A7 全画幅微单 A7K</string>
+		<key>price</key>
+		<integer>8599</integer>
+		<key>sale</key>
+		<integer>7288</integer>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>8</integer>
+		<key>name</key>
+		<string>佳能5D</string>
+		<key>image</key>
+		<string>p8.jpg</string>
+		<key>text</key>
+		<string>[旗舰店] Canon/佳能 EOS 5D Mark IV机身 5D4</string>
+		<key>price</key>
+		<integer>26599</integer>
+		<key>sale</key>
+		<integer>812</integer>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>9</integer>
+		<key>name</key>
+		<string>Boss 35</string>
+		<key>image</key>
+		<string>p9.jpg</string>
+		<key>text</key>
+		<string>BOSE QuietComfort 35无线蓝牙耳机qc35有源消噪蓝牙头戴式耳机</string>
+		<key>price</key>
+		<integer>2888</integer>
+		<key>sale</key>
+		<integer>1328</integer>
+	</dict>
+	<dict>
+		<key>Id</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>大疆精灵4</string>
+		<key>image</key>
+		<string>p10.jpg</string>
+		<key>text</key>
+		<string>【现货】DJI大疆精灵4 PRO无人机四轴高清航拍飞行器自动智能避障</string>
+		<key>price</key>
+		<real>9998</real>
+		<key>sale</key>
+		<integer>811</integer>
+	</dict>
+</array>
+</plist>

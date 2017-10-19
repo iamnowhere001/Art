@@ -1,0 +1,3944 @@
+ [
+  {
+  "countryID": 1,
+  "CountryName": "北京市",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 37,
+               "cityName": "东城区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 38,
+               "cityName": "西城区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 39,
+               "cityName": "崇文区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 40,
+               "cityName": "宣武区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 41,
+               "cityName": "朝阳区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 42,
+               "cityName": "丰台区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 43,
+               "cityName": "石景山区                                              ",
+               "parentId": 1
+               },
+               {
+               "cityID": 44,
+               "cityName": "海淀区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 45,
+               "cityName": "门头沟区                                              ",
+               "parentId": 1
+               },
+               {
+               "cityID": 46,
+               "cityName": "房山区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 47,
+               "cityName": "通州区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 48,
+               "cityName": "顺义区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 49,
+               "cityName": "昌平区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 50,
+               "cityName": "大兴区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 51,
+               "cityName": "怀柔区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 52,
+               "cityName": "平谷区                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 53,
+               "cityName": "密云县                                               ",
+               "parentId": 1
+               },
+               {
+               "cityID": 54,
+               "cityName": "延庆县                                               ",
+               "parentId": 1
+               }
+               ]
+  },
+  {
+  "countryID": 2,
+  "CountryName": "天津市",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 55,
+               "cityName": "和平区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 56,
+               "cityName": "河东区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 57,
+               "cityName": "河西区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 58,
+               "cityName": "南开区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 59,
+               "cityName": "河北区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 60,
+               "cityName": "红桥区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 61,
+               "cityName": "塘沽区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 62,
+               "cityName": "汉沽区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 63,
+               "cityName": "大港区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 64,
+               "cityName": "东丽区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 65,
+               "cityName": "西青区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 66,
+               "cityName": "津南区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 67,
+               "cityName": "北辰区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 68,
+               "cityName": "武清区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 69,
+               "cityName": "宝坻区                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 70,
+               "cityName": "宁河县                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 71,
+               "cityName": "静海县                                               ",
+               "parentId": 2
+               },
+               {
+               "cityID": 72,
+               "cityName": "蓟县                                                ",
+               "parentId": 2
+               }
+               ]
+  },
+  {
+  "countryID": 3,
+  "CountryName": "河北省",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 73,
+               "cityName": "石家庄市                                              ",
+               "parentId": 3
+               },
+               {
+               "cityID": 74,
+               "cityName": "唐山市                                               ",
+               "parentId": 3
+               },
+               {
+               "cityID": 75,
+               "cityName": "秦皇岛市                                              ",
+               "parentId": 3
+               },
+               {
+               "cityID": 76,
+               "cityName": "邯郸市                                               ",
+               "parentId": 3
+               },
+               {
+               "cityID": 77,
+               "cityName": "邢台市                                               ",
+               "parentId": 3
+               },
+               {
+               "cityID": 78,
+               "cityName": "保定市                                               ",
+               "parentId": 3
+               },
+               {
+               "cityID": 79,
+               "cityName": "张家口市                                              ",
+               "parentId": 3
+               },
+               {
+               "cityID": 80,
+               "cityName": "承德市                                               ",
+               "parentId": 3
+               },
+               {
+               "cityID": 81,
+               "cityName": "衡水市                                               ",
+               "parentId": 3
+               },
+               {
+               "cityID": 82,
+               "cityName": "廊坊市                                               ",
+               "parentId": 3
+               },
+               {
+               "cityID": 83,
+               "cityName": "沧州市                                               ",
+               "parentId": 3
+               }
+               ]
+  },
+  {
+  "countryID": 4,
+  "CountryName": "山西省",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 84,
+               "cityName": "太原市                                               ",
+               "parentId": 4
+               },
+               {
+               "cityID": 85,
+               "cityName": "大同市                                               ",
+               "parentId": 4
+               },
+               {
+               "cityID": 86,
+               "cityName": "阳泉市                                               ",
+               "parentId": 4
+               },
+               {
+               "cityID": 87,
+               "cityName": "长治市                                               ",
+               "parentId": 4
+               },
+               {
+               "cityID": 88,
+               "cityName": "晋城市                                               ",
+               "parentId": 4
+               },
+               {
+               "cityID": 89,
+               "cityName": "朔州市                                               ",
+               "parentId": 4
+               },
+               {
+               "cityID": 90,
+               "cityName": "晋中市                                               ",
+               "parentId": 4
+               },
+               {
+               "cityID": 91,
+               "cityName": "运城市                                               ",
+               "parentId": 4
+               },
+               {
+               "cityID": 92,
+               "cityName": "忻州市                                               ",
+               "parentId": 4
+               },
+               {
+               "cityID": 93,
+               "cityName": "临汾市                                               ",
+               "parentId": 4
+               },
+               {
+               "cityID": 94,
+               "cityName": "吕梁市                                               ",
+               "parentId": 4
+               }
+               ]
+  },
+  {
+  "countryID": 5,
+  "CountryName": "内蒙古自治区",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 95,
+               "cityName": "呼和浩特市                                             ",
+               "parentId": 5
+               },
+               {
+               "cityID": 96,
+               "cityName": "包头市                                               ",
+               "parentId": 5
+               },
+               {
+               "cityID": 97,
+               "cityName": "乌海市                                               ",
+               "parentId": 5
+               },
+               {
+               "cityID": 98,
+               "cityName": "赤峰市                                               ",
+               "parentId": 5
+               },
+               {
+               "cityID": 99,
+               "cityName": "通辽市                                               ",
+               "parentId": 5
+               },
+               {
+               "cityID": 100,
+               "cityName": "鄂尔多斯市                                             ",
+               "parentId": 5
+               },
+               {
+               "cityID": 101,
+               "cityName": "呼伦贝尔市                                             ",
+               "parentId": 5
+               },
+               {
+               "cityID": 102,
+               "cityName": "巴彦淖尔市                                             ",
+               "parentId": 5
+               },
+               {
+               "cityID": 103,
+               "cityName": "乌兰察布市                                             ",
+               "parentId": 5
+               },
+               {
+               "cityID": 104,
+               "cityName": "兴安盟                                               ",
+               "parentId": 5
+               },
+               {
+               "cityID": 105,
+               "cityName": "锡林郭勒盟                                             ",
+               "parentId": 5
+               },
+               {
+               "cityID": 106,
+               "cityName": "阿拉善盟                                              ",
+               "parentId": 5
+               }
+               ]
+  },
+  {
+  "countryID": 6,
+  "CountryName": "辽宁省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 107,
+               "cityName": "沈阳市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 108,
+               "cityName": "大连市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 109,
+               "cityName": "鞍山市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 110,
+               "cityName": "抚顺市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 111,
+               "cityName": "本溪市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 112,
+               "cityName": "丹东市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 113,
+               "cityName": "锦州市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 114,
+               "cityName": "营口市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 115,
+               "cityName": "阜新市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 116,
+               "cityName": "辽阳市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 117,
+               "cityName": "盘锦市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 118,
+               "cityName": "铁岭市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 119,
+               "cityName": "朝阳市                                               ",
+               "parentId": 6
+               },
+               {
+               "cityID": 120,
+               "cityName": "葫芦岛市                                              ",
+               "parentId": 6
+               }
+               ]
+  },
+  {
+  "countryID": 7,
+  "CountryName": "吉林省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 121,
+               "cityName": "长春市                                               ",
+               "parentId": 7
+               },
+               {
+               "cityID": 122,
+               "cityName": "吉林市                                               ",
+               "parentId": 7
+               },
+               {
+               "cityID": 123,
+               "cityName": "四平市                                               ",
+               "parentId": 7
+               },
+               {
+               "cityID": 124,
+               "cityName": "辽源市                                               ",
+               "parentId": 7
+               },
+               {
+               "cityID": 125,
+               "cityName": "通化市                                               ",
+               "parentId": 7
+               },
+               {
+               "cityID": 126,
+               "cityName": "白山市                                               ",
+               "parentId": 7
+               },
+               {
+               "cityID": 127,
+               "cityName": "松原市                                               ",
+               "parentId": 7
+               },
+               {
+               "cityID": 128,
+               "cityName": "白城市                                               ",
+               "parentId": 7
+               },
+               {
+               "cityID": 129,
+               "cityName": "延边朝鲜族自治州                                          ",
+               "parentId": 7
+               }
+               ]
+  },
+  {
+  "countryID": 8,
+  "CountryName": "黑龙江省                                              ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 130,
+               "cityName": "哈尔滨市                                              ",
+               "parentId": 8
+               },
+               {
+               "cityID": 131,
+               "cityName": "齐齐哈尔市                                             ",
+               "parentId": 8
+               },
+               {
+               "cityID": 132,
+               "cityName": "鸡西市                                               ",
+               "parentId": 8
+               },
+               {
+               "cityID": 133,
+               "cityName": "鹤岗市                                               ",
+               "parentId": 8
+               },
+               {
+               "cityID": 134,
+               "cityName": "双鸭山市                                              ",
+               "parentId": 8
+               },
+               {
+               "cityID": 135,
+               "cityName": "大庆市                                               ",
+               "parentId": 8
+               },
+               {
+               "cityID": 136,
+               "cityName": "伊春市                                               ",
+               "parentId": 8
+               },
+               {
+               "cityID": 137,
+               "cityName": "佳木斯市                                              ",
+               "parentId": 8
+               },
+               {
+               "cityID": 138,
+               "cityName": "七台河市                                              ",
+               "parentId": 8
+               },
+               {
+               "cityID": 139,
+               "cityName": "牡丹江市                                              ",
+               "parentId": 8
+               },
+               {
+               "cityID": 140,
+               "cityName": "黑河市                                               ",
+               "parentId": 8
+               },
+               {
+               "cityID": 141,
+               "cityName": "绥化市                                               ",
+               "parentId": 8
+               },
+               {
+               "cityID": 142,
+               "cityName": "大兴安岭地区                                            ",
+               "parentId": 8
+               }
+               ]
+  },
+  {
+  "countryID": 9,
+  "CountryName": "上海市",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 143,
+               "cityName": "黄浦区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 144,
+               "cityName": "卢湾区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 145,
+               "cityName": "徐汇区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 146,
+               "cityName": "长宁区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 147,
+               "cityName": "静安区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 148,
+               "cityName": "普陀区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 149,
+               "cityName": "闸北区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 150,
+               "cityName": "虹口区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 151,
+               "cityName": "杨浦区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 152,
+               "cityName": "闵行区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 153,
+               "cityName": "宝山区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 154,
+               "cityName": "嘉定区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 155,
+               "cityName": "浦东新区                                              ",
+               "parentId": 9
+               },
+               {
+               "cityID": 156,
+               "cityName": "金山区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 157,
+               "cityName": "松江区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 158,
+               "cityName": "青浦区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 159,
+               "cityName": "南汇区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 160,
+               "cityName": "奉贤区                                               ",
+               "parentId": 9
+               },
+               {
+               "cityID": 161,
+               "cityName": "崇明县                                               ",
+               "parentId": 9
+               }
+               ]
+  },
+  {
+  "countryID": 10,
+  "CountryName": "江苏省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 162,
+               "cityName": "南京市                                               ",
+               "parentId": 10
+               },
+               {
+               "cityID": 163,
+               "cityName": "无锡市                                               ",
+               "parentId": 10
+               },
+               {
+               "cityID": 164,
+               "cityName": "徐州市                                               ",
+               "parentId": 10
+               },
+               {
+               "cityID": 165,
+               "cityName": "常州市                                               ",
+               "parentId": 10
+               },
+               {
+               "cityID": 166,
+               "cityName": "苏州市                                               ",
+               "parentId": 10
+               },
+               {
+               "cityID": 167,
+               "cityName": "南通市                                               ",
+               "parentId": 10
+               },
+               {
+               "cityID": 168,
+               "cityName": "连云港市                                              ",
+               "parentId": 10
+               },
+               {
+               "cityID": 169,
+               "cityName": "淮安市                                               ",
+               "parentId": 10
+               },
+               {
+               "cityID": 170,
+               "cityName": "盐城市                                               ",
+               "parentId": 10
+               },
+               {
+               "cityID": 171,
+               "cityName": "扬州市                                               ",
+               "parentId": 10
+               },
+               {
+               "cityID": 172,
+               "cityName": "镇江市                                               ",
+               "parentId": 10
+               },
+               {
+               "cityID": 173,
+               "cityName": "泰州市                                               ",
+               "parentId": 10
+               },
+               {
+               "cityID": 174,
+               "cityName": "宿迁市                                               ",
+               "parentId": 10
+               }
+               ]
+  },
+  {
+  "countryID": 11,
+  "CountryName": "浙江省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 175,
+               "cityName": "杭州市                                               ",
+               "parentId": 11
+               },
+               {
+               "cityID": 176,
+               "cityName": "宁波市                                               ",
+               "parentId": 11
+               },
+               {
+               "cityID": 177,
+               "cityName": "温州市                                               ",
+               "parentId": 11
+               },
+               {
+               "cityID": 178,
+               "cityName": "嘉兴市                                               ",
+               "parentId": 11
+               },
+               {
+               "cityID": 179,
+               "cityName": "湖州市                                               ",
+               "parentId": 11
+               },
+               {
+               "cityID": 180,
+               "cityName": "绍兴市                                               ",
+               "parentId": 11
+               },
+               {
+               "cityID": 181,
+               "cityName": "舟山市                                               ",
+               "parentId": 11
+               },
+               {
+               "cityID": 182,
+               "cityName": "衢州市                                               ",
+               "parentId": 11
+               },
+               {
+               "cityID": 183,
+               "cityName": "金华市                                               ",
+               "parentId": 11
+               },
+               {
+               "cityID": 184,
+               "cityName": "台州市                                               ",
+               "parentId": 11
+               },
+               {
+               "cityID": 185,
+               "cityName": "丽水市                                               ",
+               "parentId": 11
+               }
+               ]
+  },
+  {
+  "countryID": 12,
+  "CountryName": "安徽省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 186,
+               "cityName": "合肥市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 187,
+               "cityName": "芜湖市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 188,
+               "cityName": "蚌埠市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 189,
+               "cityName": "淮南市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 190,
+               "cityName": "马鞍山市                                              ",
+               "parentId": 12
+               },
+               {
+               "cityID": 191,
+               "cityName": "淮北市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 192,
+               "cityName": "铜陵市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 193,
+               "cityName": "安庆市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 194,
+               "cityName": "黄山市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 195,
+               "cityName": "滁州市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 196,
+               "cityName": "阜阳市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 197,
+               "cityName": "宿州市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 198,
+               "cityName": "巢湖市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 199,
+               "cityName": "六安市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 200,
+               "cityName": "亳州市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 201,
+               "cityName": "池州市                                               ",
+               "parentId": 12
+               },
+               {
+               "cityID": 202,
+               "cityName": "宣城市                                               ",
+               "parentId": 12
+               }
+               ]
+  },
+  {
+  "countryID": 13,
+  "CountryName": "福建省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 203,
+               "cityName": "福州市                                               ",
+               "parentId": 13
+               },
+               {
+               "cityID": 204,
+               "cityName": "厦门市                                               ",
+               "parentId": 13
+               },
+               {
+               "cityID": 205,
+               "cityName": "莆田市                                               ",
+               "parentId": 13
+               },
+               {
+               "cityID": 206,
+               "cityName": "三明市                                               ",
+               "parentId": 13
+               },
+               {
+               "cityID": 207,
+               "cityName": "泉州市                                               ",
+               "parentId": 13
+               },
+               {
+               "cityID": 208,
+               "cityName": "漳州市                                               ",
+               "parentId": 13
+               },
+               {
+               "cityID": 209,
+               "cityName": "南平市                                               ",
+               "parentId": 13
+               },
+               {
+               "cityID": 210,
+               "cityName": "龙岩市                                               ",
+               "parentId": 13
+               },
+               {
+               "cityID": 211,
+               "cityName": "宁德市                                               ",
+               "parentId": 13
+               }
+               ]
+  },
+  {
+  "countryID": 14,
+  "CountryName": "江西省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 212,
+               "cityName": "南昌市                                               ",
+               "parentId": 14
+               },
+               {
+               "cityID": 213,
+               "cityName": "景德镇市                                              ",
+               "parentId": 14
+               },
+               {
+               "cityID": 214,
+               "cityName": "萍乡市                                               ",
+               "parentId": 14
+               },
+               {
+               "cityID": 215,
+               "cityName": "九江市                                               ",
+               "parentId": 14
+               },
+               {
+               "cityID": 216,
+               "cityName": "新余市                                               ",
+               "parentId": 14
+               },
+               {
+               "cityID": 217,
+               "cityName": "鹰潭市                                               ",
+               "parentId": 14
+               },
+               {
+               "cityID": 218,
+               "cityName": "赣州市                                               ",
+               "parentId": 14
+               },
+               {
+               "cityID": 219,
+               "cityName": "吉安市                                               ",
+               "parentId": 14
+               },
+               {
+               "cityID": 220,
+               "cityName": "宜春市                                               ",
+               "parentId": 14
+               },
+               {
+               "cityID": 221,
+               "cityName": "抚州市                                               ",
+               "parentId": 14
+               },
+               {
+               "cityID": 222,
+               "cityName": "上饶市                                               ",
+               "parentId": 14
+               }
+               ]
+  },
+  {
+  "countryID": 15,
+  "CountryName": "山东省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 223,
+               "cityName": "济南市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 224,
+               "cityName": "青岛市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 225,
+               "cityName": "淄博市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 226,
+               "cityName": "枣庄市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 227,
+               "cityName": "东营市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 228,
+               "cityName": "烟台市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 229,
+               "cityName": "潍坊市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 230,
+               "cityName": "济宁市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 231,
+               "cityName": "泰安市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 232,
+               "cityName": "威海市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 233,
+               "cityName": "日照市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 234,
+               "cityName": "莱芜市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 235,
+               "cityName": "临沂市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 236,
+               "cityName": "德州市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 237,
+               "cityName": "聊城市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 238,
+               "cityName": "滨州市                                               ",
+               "parentId": 15
+               },
+               {
+               "cityID": 239,
+               "cityName": "菏泽市                                               ",
+               "parentId": 15
+               }
+               ]
+  },
+  {
+  "countryID": 16,
+  "CountryName": "河南省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 240,
+               "cityName": "郑州市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 241,
+               "cityName": "开封市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 242,
+               "cityName": "洛阳市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 243,
+               "cityName": "平顶山市                                              ",
+               "parentId": 16
+               },
+               {
+               "cityID": 244,
+               "cityName": "安阳市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 245,
+               "cityName": "鹤壁市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 246,
+               "cityName": "新乡市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 247,
+               "cityName": "焦作市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 248,
+               "cityName": "濮阳市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 249,
+               "cityName": "许昌市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 250,
+               "cityName": "漯河市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 251,
+               "cityName": "三门峡市                                              ",
+               "parentId": 16
+               },
+               {
+               "cityID": 252,
+               "cityName": "南阳市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 253,
+               "cityName": "商丘市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 254,
+               "cityName": "信阳市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 255,
+               "cityName": "周口市                                               ",
+               "parentId": 16
+               },
+               {
+               "cityID": 256,
+               "cityName": "驻马店市                                              ",
+               "parentId": 16
+               },
+               {
+               "cityID": 257,
+               "cityName": "济源市                                               ",
+               "parentId": 16
+               }
+               ]
+  },
+  {
+  "countryID": 17,
+  "CountryName": "湖北省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 258,
+               "cityName": "武汉市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 259,
+               "cityName": "黄石市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 260,
+               "cityName": "十堰市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 261,
+               "cityName": "宜昌市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 262,
+               "cityName": "襄樊市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 263,
+               "cityName": "鄂州市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 264,
+               "cityName": "荆门市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 265,
+               "cityName": "孝感市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 266,
+               "cityName": "荆州市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 267,
+               "cityName": "黄冈市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 268,
+               "cityName": "咸宁市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 269,
+               "cityName": "随州市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 270,
+               "cityName": "恩施土家族苗族自治州                                        ",
+               "parentId": 17
+               },
+               {
+               "cityID": 271,
+               "cityName": "仙桃市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 272,
+               "cityName": "潜江市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 273,
+               "cityName": "天门市                                               ",
+               "parentId": 17
+               },
+               {
+               "cityID": 274,
+               "cityName": "神农架林区                                             ",
+               "parentId": 17
+               }
+               ]
+  },
+  {
+  "countryID": 18,
+  "CountryName": "湖南省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 275,
+               "cityName": "长沙市                                               ",
+               "parentId": 18
+               },
+               {
+               "cityID": 276,
+               "cityName": "株洲市                                               ",
+               "parentId": 18
+               },
+               {
+               "cityID": 277,
+               "cityName": "湘潭市                                               ",
+               "parentId": 18
+               },
+               {
+               "cityID": 278,
+               "cityName": "衡阳市                                               ",
+               "parentId": 18
+               },
+               {
+               "cityID": 279,
+               "cityName": "邵阳市                                               ",
+               "parentId": 18
+               },
+               {
+               "cityID": 280,
+               "cityName": "岳阳市                                               ",
+               "parentId": 18
+               },
+               {
+               "cityID": 281,
+               "cityName": "常德市                                               ",
+               "parentId": 18
+               },
+               {
+               "cityID": 282,
+               "cityName": "张家界市                                              ",
+               "parentId": 18
+               },
+               {
+               "cityID": 283,
+               "cityName": "益阳市                                               ",
+               "parentId": 18
+               },
+               {
+               "cityID": 284,
+               "cityName": "郴州市                                               ",
+               "parentId": 18
+               },
+               {
+               "cityID": 285,
+               "cityName": "永州市                                               ",
+               "parentId": 18
+               },
+               {
+               "cityID": 286,
+               "cityName": "怀化市                                               ",
+               "parentId": 18
+               },
+               {
+               "cityID": 287,
+               "cityName": "娄底市                                               ",
+               "parentId": 18
+               },
+               {
+               "cityID": 288,
+               "cityName": "湘西土家族苗族自治州                                        ",
+               "parentId": 18
+               }
+               ]
+  },
+  {
+  "countryID": 19,
+  "CountryName": "广东省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 289,
+               "cityName": "广州市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 290,
+               "cityName": "韶关市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 291,
+               "cityName": "深圳市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 292,
+               "cityName": "珠海市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 293,
+               "cityName": "汕头市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 294,
+               "cityName": "佛山市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 295,
+               "cityName": "江门市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 296,
+               "cityName": "湛江市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 297,
+               "cityName": "茂名市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 298,
+               "cityName": "肇庆市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 299,
+               "cityName": "惠州市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 300,
+               "cityName": "梅州市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 301,
+               "cityName": "汕尾市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 302,
+               "cityName": "河源市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 303,
+               "cityName": "阳江市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 304,
+               "cityName": "清远市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 305,
+               "cityName": "东莞市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 306,
+               "cityName": "中山市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 307,
+               "cityName": "潮州市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 308,
+               "cityName": "揭阳市                                               ",
+               "parentId": 19
+               },
+               {
+               "cityID": 309,
+               "cityName": "云浮市                                               ",
+               "parentId": 19
+               }
+               ]
+  },
+  {
+  "countryID": 20,
+  "CountryName": "广西壮族自治区                                           ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 310,
+               "cityName": "南宁市                                               ",
+               "parentId": 20
+               },
+               {
+               "cityID": 311,
+               "cityName": "柳州市                                               ",
+               "parentId": 20
+               },
+               {
+               "cityID": 312,
+               "cityName": "桂林市                                               ",
+               "parentId": 20
+               },
+               {
+               "cityID": 313,
+               "cityName": "梧州市                                               ",
+               "parentId": 20
+               },
+               {
+               "cityID": 314,
+               "cityName": "北海市                                               ",
+               "parentId": 20
+               },
+               {
+               "cityID": 315,
+               "cityName": "防城港市                                              ",
+               "parentId": 20
+               },
+               {
+               "cityID": 316,
+               "cityName": "钦州市                                               ",
+               "parentId": 20
+               },
+               {
+               "cityID": 317,
+               "cityName": "贵港市                                               ",
+               "parentId": 20
+               },
+               {
+               "cityID": 318,
+               "cityName": "玉林市                                               ",
+               "parentId": 20
+               },
+               {
+               "cityID": 319,
+               "cityName": "百色市                                               ",
+               "parentId": 20
+               },
+               {
+               "cityID": 320,
+               "cityName": "贺州市                                               ",
+               "parentId": 20
+               },
+               {
+               "cityID": 321,
+               "cityName": "河池市                                               ",
+               "parentId": 20
+               },
+               {
+               "cityID": 322,
+               "cityName": "来宾市                                               ",
+               "parentId": 20
+               },
+               {
+               "cityID": 323,
+               "cityName": "崇左市                                               ",
+               "parentId": 20
+               }
+               ]
+  },
+  {
+  "countryID": 21,
+  "CountryName": "海南省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 324,
+               "cityName": "海口市                                               ",
+               "parentId": 21
+               },
+               {
+               "cityID": 325,
+               "cityName": "三亚市                                               ",
+               "parentId": 21
+               },
+               {
+               "cityID": 326,
+               "cityName": "五指山市                                              ",
+               "parentId": 21
+               },
+               {
+               "cityID": 327,
+               "cityName": "琼海市                                               ",
+               "parentId": 21
+               },
+               {
+               "cityID": 328,
+               "cityName": "儋州市                                               ",
+               "parentId": 21
+               },
+               {
+               "cityID": 329,
+               "cityName": "文昌市                                               ",
+               "parentId": 21
+               },
+               {
+               "cityID": 330,
+               "cityName": "万宁市                                               ",
+               "parentId": 21
+               },
+               {
+               "cityID": 331,
+               "cityName": "东方市                                               ",
+               "parentId": 21
+               },
+               {
+               "cityID": 332,
+               "cityName": "定安县                                               ",
+               "parentId": 21
+               },
+               {
+               "cityID": 333,
+               "cityName": "屯昌县                                               ",
+               "parentId": 21
+               },
+               {
+               "cityID": 334,
+               "cityName": "澄迈县                                               ",
+               "parentId": 21
+               },
+               {
+               "cityID": 335,
+               "cityName": "临高县                                               ",
+               "parentId": 21
+               },
+               {
+               "cityID": 336,
+               "cityName": "白沙黎族自治县                                           ",
+               "parentId": 21
+               },
+               {
+               "cityID": 337,
+               "cityName": "昌江黎族自治县                                           ",
+               "parentId": 21
+               },
+               {
+               "cityID": 338,
+               "cityName": "乐东黎族自治县                                           ",
+               "parentId": 21
+               },
+               {
+               "cityID": 339,
+               "cityName": "陵水黎族自治县                                           ",
+               "parentId": 21
+               },
+               {
+               "cityID": 340,
+               "cityName": "保亭黎族苗族自治县                                         ",
+               "parentId": 21
+               },
+               {
+               "cityID": 341,
+               "cityName": "琼中黎族苗族自治县                                         ",
+               "parentId": 21
+               },
+               {
+               "cityID": 342,
+               "cityName": "西沙群岛                                              ",
+               "parentId": 21
+               },
+               {
+               "cityID": 343,
+               "cityName": "南沙群岛                                              ",
+               "parentId": 21
+               },
+               {
+               "cityID": 344,
+               "cityName": "中沙群岛的岛礁及其海域                                       ",
+               "parentId": 21
+               }
+               ]
+  },
+  {
+  "countryID": 22,
+  "CountryName": "重庆市                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 345,
+               "cityName": "万州区                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 346,
+               "cityName": "涪陵区                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 347,
+               "cityName": "渝中区                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 348,
+               "cityName": "大渡口区                                              ",
+               "parentId": 22
+               },
+               {
+               "cityID": 349,
+               "cityName": "江北区                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 350,
+               "cityName": "沙坪坝区                                              ",
+               "parentId": 22
+               },
+               {
+               "cityID": 351,
+               "cityName": "九龙坡区                                              ",
+               "parentId": 22
+               },
+               {
+               "cityID": 352,
+               "cityName": "南岸区                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 353,
+               "cityName": "北碚区                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 354,
+               "cityName": "双桥区                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 355,
+               "cityName": "万盛区                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 356,
+               "cityName": "渝北区                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 357,
+               "cityName": "巴南区                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 358,
+               "cityName": "黔江区                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 359,
+               "cityName": "长寿区                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 360,
+               "cityName": "綦江县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 361,
+               "cityName": "潼南县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 362,
+               "cityName": "铜梁县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 363,
+               "cityName": "大足县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 364,
+               "cityName": "荣昌县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 365,
+               "cityName": "璧山县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 366,
+               "cityName": "梁平县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 367,
+               "cityName": "城口县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 368,
+               "cityName": "丰都县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 369,
+               "cityName": "垫江县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 370,
+               "cityName": "武隆县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 371,
+               "cityName": "忠县                                                ",
+               "parentId": 22
+               },
+               {
+               "cityID": 372,
+               "cityName": "开县                                                ",
+               "parentId": 22
+               },
+               {
+               "cityID": 373,
+               "cityName": "云阳县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 374,
+               "cityName": "奉节县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 375,
+               "cityName": "巫山县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 376,
+               "cityName": "巫溪县                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 377,
+               "cityName": "石柱土家族自治县                                          ",
+               "parentId": 22
+               },
+               {
+               "cityID": 378,
+               "cityName": "秀山土家族苗族自治县                                        ",
+               "parentId": 22
+               },
+               {
+               "cityID": 379,
+               "cityName": "酉阳土家族苗族自治县                                        ",
+               "parentId": 22
+               },
+               {
+               "cityID": 380,
+               "cityName": "彭水苗族土家族自治县                                        ",
+               "parentId": 22
+               },
+               {
+               "cityID": 381,
+               "cityName": "江津市                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 382,
+               "cityName": "合川市                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 383,
+               "cityName": "永川市                                               ",
+               "parentId": 22
+               },
+               {
+               "cityID": 384,
+               "cityName": "南川市                                               ",
+               "parentId": 22
+               }
+               ]
+  },
+  {
+  "countryID": 23,
+  "CountryName": "四川省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 385,
+               "cityName": "成都市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 386,
+               "cityName": "自贡市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 387,
+               "cityName": "攀枝花市                                              ",
+               "parentId": 23
+               },
+               {
+               "cityID": 388,
+               "cityName": "泸州市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 389,
+               "cityName": "德阳市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 390,
+               "cityName": "绵阳市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 391,
+               "cityName": "广元市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 392,
+               "cityName": "遂宁市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 393,
+               "cityName": "内江市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 394,
+               "cityName": "乐山市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 395,
+               "cityName": "南充市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 396,
+               "cityName": "眉山市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 397,
+               "cityName": "宜宾市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 398,
+               "cityName": "广安市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 399,
+               "cityName": "达州市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 400,
+               "cityName": "雅安市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 401,
+               "cityName": "巴中市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 402,
+               "cityName": "资阳市                                               ",
+               "parentId": 23
+               },
+               {
+               "cityID": 403,
+               "cityName": "阿坝藏族羌族自治州                                         ",
+               "parentId": 23
+               },
+               {
+               "cityID": 404,
+               "cityName": "甘孜藏族自治州                                           ",
+               "parentId": 23
+               },
+               {
+               "cityID": 405,
+               "cityName": "凉山彝族自治州                                           ",
+               "parentId": 23
+               }
+               ]
+  },
+  {
+  "countryID": 24,
+  "CountryName": "贵州省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 406,
+               "cityName": "贵阳市                                               ",
+               "parentId": 24
+               },
+               {
+               "cityID": 407,
+               "cityName": "六盘水市                                              ",
+               "parentId": 24
+               },
+               {
+               "cityID": 408,
+               "cityName": "遵义市                                               ",
+               "parentId": 24
+               },
+               {
+               "cityID": 409,
+               "cityName": "安顺市                                               ",
+               "parentId": 24
+               },
+               {
+               "cityID": 410,
+               "cityName": "铜仁地区                                              ",
+               "parentId": 24
+               },
+               {
+               "cityID": 411,
+               "cityName": "黔西南布依族苗族自治州                                       ",
+               "parentId": 24
+               },
+               {
+               "cityID": 412,
+               "cityName": "毕节地区                                              ",
+               "parentId": 24
+               },
+               {
+               "cityID": 413,
+               "cityName": "黔东南苗族侗族自治州                                        ",
+               "parentId": 24
+               },
+               {
+               "cityID": 414,
+               "cityName": "黔南布依族苗族自治州                                        ",
+               "parentId": 24
+               }
+               ]
+  },
+  {
+  "countryID": 25,
+  "CountryName": "云南省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 415,
+               "cityName": "昆明市                                               ",
+               "parentId": 25
+               },
+               {
+               "cityID": 416,
+               "cityName": "曲靖市                                               ",
+               "parentId": 25
+               },
+               {
+               "cityID": 417,
+               "cityName": "玉溪市                                               ",
+               "parentId": 25
+               },
+               {
+               "cityID": 418,
+               "cityName": "保山市                                               ",
+               "parentId": 25
+               },
+               {
+               "cityID": 419,
+               "cityName": "昭通市                                               ",
+               "parentId": 25
+               },
+               {
+               "cityID": 420,
+               "cityName": "丽江市                                               ",
+               "parentId": 25
+               },
+               {
+               "cityID": 421,
+               "cityName": "思茅市                                               ",
+               "parentId": 25
+               },
+               {
+               "cityID": 422,
+               "cityName": "临沧市                                               ",
+               "parentId": 25
+               },
+               {
+               "cityID": 423,
+               "cityName": "楚雄彝族自治州                                           ",
+               "parentId": 25
+               },
+               {
+               "cityID": 424,
+               "cityName": "红河哈尼族彝族自治州                                        ",
+               "parentId": 25
+               },
+               {
+               "cityID": 425,
+               "cityName": "文山壮族苗族自治州                                         ",
+               "parentId": 25
+               },
+               {
+               "cityID": 426,
+               "cityName": "西双版纳傣族自治州                                         ",
+               "parentId": 25
+               },
+               {
+               "cityID": 427,
+               "cityName": "大理白族自治州                                           ",
+               "parentId": 25
+               },
+               {
+               "cityID": 428,
+               "cityName": "德宏傣族景颇族自治州                                        ",
+               "parentId": 25
+               },
+               {
+               "cityID": 429,
+               "cityName": "怒江傈僳族自治州                                          ",
+               "parentId": 25
+               },
+               {
+               "cityID": 430,
+               "cityName": "迪庆藏族自治州                                           ",
+               "parentId": 25
+               }
+               ]
+  },
+  {
+  "countryID": 26,
+  "CountryName": "西藏自治区                                             ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 431,
+               "cityName": "拉萨市                                               ",
+               "parentId": 26
+               },
+               {
+               "cityID": 432,
+               "cityName": "昌都地区                                              ",
+               "parentId": 26
+               },
+               {
+               "cityID": 433,
+               "cityName": "山南地区                                              ",
+               "parentId": 26
+               },
+               {
+               "cityID": 434,
+               "cityName": "日喀则地区                                             ",
+               "parentId": 26
+               },
+               {
+               "cityID": 435,
+               "cityName": "那曲地区                                              ",
+               "parentId": 26
+               },
+               {
+               "cityID": 436,
+               "cityName": "阿里地区                                              ",
+               "parentId": 26
+               },
+               {
+               "cityID": 437,
+               "cityName": "林芝地区                                              ",
+               "parentId": 26
+               }
+               ]
+  },
+  {
+  "countryID": 27,
+  "CountryName": "陕西省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 438,
+               "cityName": "西安市                                               ",
+               "parentId": 27
+               },
+               {
+               "cityID": 439,
+               "cityName": "铜川市                                               ",
+               "parentId": 27
+               },
+               {
+               "cityID": 440,
+               "cityName": "宝鸡市                                               ",
+               "parentId": 27
+               },
+               {
+               "cityID": 441,
+               "cityName": "咸阳市                                               ",
+               "parentId": 27
+               },
+               {
+               "cityID": 442,
+               "cityName": "渭南市                                               ",
+               "parentId": 27
+               },
+               {
+               "cityID": 443,
+               "cityName": "延安市                                               ",
+               "parentId": 27
+               },
+               {
+               "cityID": 444,
+               "cityName": "汉中市                                               ",
+               "parentId": 27
+               },
+               {
+               "cityID": 445,
+               "cityName": "榆林市                                               ",
+               "parentId": 27
+               },
+               {
+               "cityID": 446,
+               "cityName": "安康市                                               ",
+               "parentId": 27
+               },
+               {
+               "cityID": 447,
+               "cityName": "商洛市                                               ",
+               "parentId": 27
+               }
+               ]
+  },
+  {
+  "countryID": 28,
+  "CountryName": "甘肃省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 448,
+               "cityName": "兰州市                                               ",
+               "parentId": 28
+               },
+               {
+               "cityID": 449,
+               "cityName": "嘉峪关市                                              ",
+               "parentId": 28
+               },
+               {
+               "cityID": 450,
+               "cityName": "金昌市                                               ",
+               "parentId": 28
+               },
+               {
+               "cityID": 451,
+               "cityName": "白银市                                               ",
+               "parentId": 28
+               },
+               {
+               "cityID": 452,
+               "cityName": "天水市                                               ",
+               "parentId": 28
+               },
+               {
+               "cityID": 453,
+               "cityName": "武威市                                               ",
+               "parentId": 28
+               },
+               {
+               "cityID": 454,
+               "cityName": "张掖市                                               ",
+               "parentId": 28
+               },
+               {
+               "cityID": 455,
+               "cityName": "平凉市                                               ",
+               "parentId": 28
+               },
+               {
+               "cityID": 456,
+               "cityName": "酒泉市                                               ",
+               "parentId": 28
+               },
+               {
+               "cityID": 457,
+               "cityName": "庆阳市                                               ",
+               "parentId": 28
+               },
+               {
+               "cityID": 458,
+               "cityName": "定西市                                               ",
+               "parentId": 28
+               },
+               {
+               "cityID": 459,
+               "cityName": "陇南市                                               ",
+               "parentId": 28
+               },
+               {
+               "cityID": 460,
+               "cityName": "临夏回族自治州                                           ",
+               "parentId": 28
+               },
+               {
+               "cityID": 461,
+               "cityName": "甘南藏族自治州                                           ",
+               "parentId": 28
+               }
+               ]
+  },
+  {
+  "countryID": 29,
+  "CountryName": "青海省                                               ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 462,
+               "cityName": "西宁市                                               ",
+               "parentId": 29
+               },
+               {
+               "cityID": 463,
+               "cityName": "海东地区                                              ",
+               "parentId": 29
+               },
+               {
+               "cityID": 464,
+               "cityName": "海北藏族自治州                                           ",
+               "parentId": 29
+               },
+               {
+               "cityID": 465,
+               "cityName": "黄南藏族自治州                                           ",
+               "parentId": 29
+               },
+               {
+               "cityID": 466,
+               "cityName": "海南藏族自治州                                           ",
+               "parentId": 29
+               },
+               {
+               "cityID": 467,
+               "cityName": "果洛藏族自治州                                           ",
+               "parentId": 29
+               },
+               {
+               "cityID": 468,
+               "cityName": "玉树藏族自治州                                           ",
+               "parentId": 29
+               },
+               {
+               "cityID": 469,
+               "cityName": "海西蒙古族藏族自治州                                        ",
+               "parentId": 29
+               }
+               ]
+  },
+  {
+  "countryID": 30,
+  "CountryName": "宁夏回族自治区",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 470,
+               "cityName": "银川市                                               ",
+               "parentId": 30
+               },
+               {
+               "cityID": 471,
+               "cityName": "石嘴山市                                              ",
+               "parentId": 30
+               },
+               {
+               "cityID": 472,
+               "cityName": "吴忠市                                               ",
+               "parentId": 30
+               },
+               {
+               "cityID": 473,
+               "cityName": "固原市                                               ",
+               "parentId": 30
+               },
+               {
+               "cityID": 474,
+               "cityName": "中卫市                                               ",
+               "parentId": 30
+               }
+               ]
+  },
+  {
+  "countryID": 31,
+  "CountryName": "新疆维吾尔自治区                                          ",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 475,
+               "cityName": "乌鲁木齐市                                             ",
+               "parentId": 31
+               },
+               {
+               "cityID": 476,
+               "cityName": "克拉玛依市                                             ",
+               "parentId": 31
+               },
+               {
+               "cityID": 477,
+               "cityName": "吐鲁番地区                                             ",
+               "parentId": 31
+               },
+               {
+               "cityID": 478,
+               "cityName": "哈密地区                                              ",
+               "parentId": 31
+               },
+               {
+               "cityID": 479,
+               "cityName": "昌吉回族自治州                                           ",
+               "parentId": 31
+               },
+               {
+               "cityID": 480,
+               "cityName": "博尔塔拉蒙古自治州                                         ",
+               "parentId": 31
+               },
+               {
+               "cityID": 481,
+               "cityName": "巴音郭楞蒙古自治州                                         ",
+               "parentId": 31
+               },
+               {
+               "cityID": 482,
+               "cityName": "阿克苏地区                                             ",
+               "parentId": 31
+               },
+               {
+               "cityID": 483,
+               "cityName": "克孜勒苏柯尔克孜自治州                                       ",
+               "parentId": 31
+               },
+               {
+               "cityID": 484,
+               "cityName": "喀什地区                                              ",
+               "parentId": 31
+               },
+               {
+               "cityID": 485,
+               "cityName": "和田地区                                              ",
+               "parentId": 31
+               },
+               {
+               "cityID": 486,
+               "cityName": "伊犁哈萨克自治州                                          ",
+               "parentId": 31
+               },
+               {
+               "cityID": 487,
+               "cityName": "塔城地区                                              ",
+               "parentId": 31
+               },
+               {
+               "cityID": 488,
+               "cityName": "阿勒泰地区                                             ",
+               "parentId": 31
+               },
+               {
+               "cityID": 489,
+               "cityName": "石河子市                                              ",
+               "parentId": 31
+               },
+               {
+               "cityID": 490,
+               "cityName": "阿拉尔市                                              ",
+               "parentId": 31
+               },
+               {
+               "cityID": 491,
+               "cityName": "图木舒克市                                             ",
+               "parentId": 31
+               },
+               {
+               "cityID": 492,
+               "cityName": "五家渠市                                              ",
+               "parentId": 31
+               }
+               ]
+  },
+  {
+  "countryID": 32,
+  "CountryName": "台湾省",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 493,
+               "cityName": "台北市                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 494,
+               "cityName": "高雄市                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 495,
+               "cityName": "基隆市                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 496,
+               "cityName": "台中市                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 497,
+               "cityName": "台南市                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 498,
+               "cityName": "新竹市                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 499,
+               "cityName": "嘉义市                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 500,
+               "cityName": "台北县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 501,
+               "cityName": "宜兰县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 502,
+               "cityName": "桃园县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 503,
+               "cityName": "新竹县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 504,
+               "cityName": "苗栗县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 505,
+               "cityName": "台中县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 506,
+               "cityName": "彰化县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 507,
+               "cityName": "南投县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 508,
+               "cityName": "云林县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 509,
+               "cityName": "嘉义县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 510,
+               "cityName": "台南县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 511,
+               "cityName": "高雄县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 512,
+               "cityName": "屏东县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 513,
+               "cityName": "澎湖县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 514,
+               "cityName": "台东县                                               ",
+               "parentId": 32
+               },
+               {
+               "cityID": 515,
+               "cityName": "花莲县                                               ",
+               "parentId": 32
+               }
+               ]
+  },
+  {
+  "countryID": 33,
+  "CountryName": "香港特别行政区",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 516,
+               "cityName": "中西区                                               ",
+               "parentId": 33
+               },
+               {
+               "cityID": 517,
+               "cityName": "东区                                                ",
+               "parentId": 33
+               },
+               {
+               "cityID": 518,
+               "cityName": "九龙城区                                              ",
+               "parentId": 33
+               },
+               {
+               "cityID": 519,
+               "cityName": "观塘区                                               ",
+               "parentId": 33
+               },
+               {
+               "cityID": 520,
+               "cityName": "南区                                                ",
+               "parentId": 33
+               },
+               {
+               "cityID": 521,
+               "cityName": "深水埗区                                              ",
+               "parentId": 33
+               },
+               {
+               "cityID": 522,
+               "cityName": "黄大仙区                                              ",
+               "parentId": 33
+               },
+               {
+               "cityID": 523,
+               "cityName": "湾仔区                                               ",
+               "parentId": 33
+               },
+               {
+               "cityID": 524,
+               "cityName": "油尖旺区                                              ",
+               "parentId": 33
+               },
+               {
+               "cityID": 525,
+               "cityName": "离岛区                                               ",
+               "parentId": 33
+               },
+               {
+               "cityID": 526,
+               "cityName": "葵青区                                               ",
+               "parentId": 33
+               },
+               {
+               "cityID": 527,
+               "cityName": "北区                                                ",
+               "parentId": 33
+               },
+               {
+               "cityID": 528,
+               "cityName": "西贡区                                               ",
+               "parentId": 33
+               },
+               {
+               "cityID": 529,
+               "cityName": "沙田区                                               ",
+               "parentId": 33
+               },
+               {
+               "cityID": 530,
+               "cityName": "屯门区                                               ",
+               "parentId": 33
+               },
+               {
+               "cityID": 531,
+               "cityName": "大埔区                                               ",
+               "parentId": 33
+               },
+               {
+               "cityID": 532,
+               "cityName": "荃湾区                                               ",
+               "parentId": 33
+               },
+               {
+               "cityID": 533,
+               "cityName": "元朗区                                               ",
+               "parentId": 33
+               }
+               ]
+  },
+  {
+  "countryID": 34,
+  "CountryName": "澳门特别行政区",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 534,
+               "cityName": "澳门特别行政区                                           ",
+               "parentId": 34
+               }
+               ]
+  },
+  {
+  "countryID": 35,
+  "CountryName": "海外",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 535,
+               "cityName": "美国                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 536,
+               "cityName": "加拿大                                               ",
+               "parentId": 35
+               },
+               {
+               "cityID": 537,
+               "cityName": "澳大利亚                                              ",
+               "parentId": 35
+               },
+               {
+               "cityID": 538,
+               "cityName": "新西兰                                               ",
+               "parentId": 35
+               },
+               {
+               "cityID": 539,
+               "cityName": "英国                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 540,
+               "cityName": "法国                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 541,
+               "cityName": "德国                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 542,
+               "cityName": "捷克",
+               "parentId": 35
+               },
+               {
+               "cityID": 543,
+               "cityName": "荷兰                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 544,
+               "cityName": "瑞士                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 545,
+               "cityName": "希腊                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 546,
+               "cityName": "挪威                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 547,
+               "cityName": "瑞典                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 548,
+               "cityName": "丹麦                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 549,
+               "cityName": "芬兰                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 550,
+               "cityName": "爱尔兰                                               ",
+               "parentId": 35
+               },
+               {
+               "cityID": 551,
+               "cityName": "奥地利                                               ",
+               "parentId": 35
+               },
+               {
+               "cityID": 552,
+               "cityName": "意大利                                               ",
+               "parentId": 35
+               },
+               {
+               "cityID": 553,
+               "cityName": "乌克兰                                               ",
+               "parentId": 35
+               },
+               {
+               "cityID": 554,
+               "cityName": "俄罗斯                                               ",
+               "parentId": 35
+               },
+               {
+               "cityID": 555,
+               "cityName": "西班牙                                               ",
+               "parentId": 35
+               },
+               {
+               "cityID": 556,
+               "cityName": "韩国                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 557,
+               "cityName": "新加坡                                               ",
+               "parentId": 35
+               },
+               {
+               "cityID": 558,
+               "cityName": "马来西亚                                              ",
+               "parentId": 35
+               },
+               {
+               "cityID": 559,
+               "cityName": "印度                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 560,
+               "cityName": "泰国                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 561,
+               "cityName": "日本                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 562,
+               "cityName": "巴西                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 563,
+               "cityName": "阿根廷                                               ",
+               "parentId": 35
+               },
+               {
+               "cityID": 564,
+               "cityName": "南非                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 565,
+               "cityName": "埃及                                                ",
+               "parentId": 35
+               },
+               {
+               "cityID": 46037,
+               "cityName": "南极洲",
+               "parentId": 35
+               },
+               {
+               "cityID": 46038,
+               "cityName": "南乔治亚和南桑德威奇群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46039,
+               "cityName": "瑙鲁",
+               "parentId": 35
+               },
+               {
+               "cityID": 46040,
+               "cityName": "尼泊尔",
+               "parentId": 35
+               },
+               {
+               "cityID": 46041,
+               "cityName": "尼加拉瓜",
+               "parentId": 35
+               },
+               {
+               "cityID": 46042,
+               "cityName": "尼日尔",
+               "parentId": 35
+               },
+               {
+               "cityID": 46043,
+               "cityName": "尼日利亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46044,
+               "cityName": "纽埃",
+               "parentId": 35
+               },
+               {
+               "cityID": 46045,
+               "cityName": "诺福克",
+               "parentId": 35
+               },
+               {
+               "cityID": 46046,
+               "cityName": "帕劳群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46047,
+               "cityName": "皮特凯恩",
+               "parentId": 35
+               },
+               {
+               "cityID": 46048,
+               "cityName": "葡萄牙",
+               "parentId": 35
+               },
+               {
+               "cityID": 46049,
+               "cityName": "乔治亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46050,
+               "cityName": "萨尔瓦多",
+               "parentId": 35
+               },
+               {
+               "cityID": 46051,
+               "cityName": "萨摩亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46052,
+               "cityName": "塞尔维亚黑山",
+               "parentId": 35
+               },
+               {
+               "cityID": 46053,
+               "cityName": "塞拉利昂",
+               "parentId": 35
+               },
+               {
+               "cityID": 46054,
+               "cityName": "塞内加尔",
+               "parentId": 35
+               },
+               {
+               "cityID": 46055,
+               "cityName": "塞浦路斯",
+               "parentId": 35
+               },
+               {
+               "cityID": 46056,
+               "cityName": "塞舌尔",
+               "parentId": 35
+               },
+               {
+               "cityID": 46057,
+               "cityName": "沙特阿拉伯",
+               "parentId": 35
+               },
+               {
+               "cityID": 46058,
+               "cityName": "圣诞岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46059,
+               "cityName": "圣多美和普林西比",
+               "parentId": 35
+               },
+               {
+               "cityID": 46060,
+               "cityName": "圣赫勒拿",
+               "parentId": 35
+               },
+               {
+               "cityID": 46061,
+               "cityName": "圣基茨和尼维斯",
+               "parentId": 35
+               },
+               {
+               "cityID": 46062,
+               "cityName": "圣卢西亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46063,
+               "cityName": "圣马力诺",
+               "parentId": 35
+               },
+               {
+               "cityID": 46064,
+               "cityName": "圣皮埃尔和米克隆群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46065,
+               "cityName": "圣文森特和格林纳丁斯",
+               "parentId": 35
+               },
+               {
+               "cityID": 46066,
+               "cityName": "斯里兰卡",
+               "parentId": 35
+               },
+               {
+               "cityID": 46067,
+               "cityName": "斯洛伐克",
+               "parentId": 35
+               },
+               {
+               "cityID": 46068,
+               "cityName": "斯洛文尼亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46069,
+               "cityName": "斯瓦尔巴和扬马廷",
+               "parentId": 35
+               },
+               {
+               "cityID": 46070,
+               "cityName": "斯威士兰",
+               "parentId": 35
+               },
+               {
+               "cityID": 46071,
+               "cityName": "苏丹",
+               "parentId": 35
+               },
+               {
+               "cityID": 46072,
+               "cityName": "苏里南",
+               "parentId": 35
+               },
+               {
+               "cityID": 46073,
+               "cityName": "所罗门群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46074,
+               "cityName": "索马里",
+               "parentId": 35
+               },
+               {
+               "cityID": 46075,
+               "cityName": "塔吉克斯坦",
+               "parentId": 35
+               },
+               {
+               "cityID": 46076,
+               "cityName": "坦桑尼亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46077,
+               "cityName": "汤加",
+               "parentId": 35
+               },
+               {
+               "cityID": 46078,
+               "cityName": "特克斯和凯克特斯群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46079,
+               "cityName": "特里斯坦达昆哈",
+               "parentId": 35
+               },
+               {
+               "cityID": 46080,
+               "cityName": "特立尼达和多巴哥",
+               "parentId": 35
+               },
+               {
+               "cityID": 46081,
+               "cityName": "突尼斯",
+               "parentId": 35
+               },
+               {
+               "cityID": 46082,
+               "cityName": "图瓦卢",
+               "parentId": 35
+               },
+               {
+               "cityID": 46083,
+               "cityName": "土耳其",
+               "parentId": 35
+               },
+               {
+               "cityID": 46084,
+               "cityName": "土库曼斯坦",
+               "parentId": 35
+               },
+               {
+               "cityID": 46085,
+               "cityName": "托克劳",
+               "parentId": 35
+               },
+               {
+               "cityID": 46086,
+               "cityName": "瓦利斯和福图纳",
+               "parentId": 35
+               },
+               {
+               "cityID": 46087,
+               "cityName": "瓦努阿图",
+               "parentId": 35
+               },
+               {
+               "cityID": 46088,
+               "cityName": "危地马拉",
+               "parentId": 35
+               },
+               {
+               "cityID": 46089,
+               "cityName": "维尔京群岛美属",
+               "parentId": 35
+               },
+               {
+               "cityID": 46090,
+               "cityName": "维尔京群岛英属",
+               "parentId": 35
+               },
+               {
+               "cityID": 46091,
+               "cityName": "委内瑞拉",
+               "parentId": 35
+               },
+               {
+               "cityID": 46092,
+               "cityName": "文莱",
+               "parentId": 35
+               },
+               {
+               "cityID": 46093,
+               "cityName": "乌干达",
+               "parentId": 35
+               },
+               {
+               "cityID": 46094,
+               "cityName": "乌拉圭",
+               "parentId": 35
+               },
+               {
+               "cityID": 46095,
+               "cityName": "乌兹别克斯坦",
+               "parentId": 35
+               },
+               {
+               "cityID": 46096,
+               "cityName": "新喀里多尼亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46097,
+               "cityName": "匈牙利",
+               "parentId": 35
+               },
+               {
+               "cityID": 46098,
+               "cityName": "叙利亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46099,
+               "cityName": "牙买加",
+               "parentId": 35
+               },
+               {
+               "cityID": 46100,
+               "cityName": "亚美尼亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46101,
+               "cityName": "也门",
+               "parentId": 35
+               },
+               {
+               "cityID": 46102,
+               "cityName": "伊拉克",
+               "parentId": 35
+               },
+               {
+               "cityID": 46103,
+               "cityName": "伊朗",
+               "parentId": 35
+               },
+               {
+               "cityID": 46104,
+               "cityName": "以色列",
+               "parentId": 35
+               },
+               {
+               "cityID": 46105,
+               "cityName": "印度尼西亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46106,
+               "cityName": "英属印度洋领地",
+               "parentId": 35
+               },
+               {
+               "cityID": 46107,
+               "cityName": "约旦",
+               "parentId": 35
+               },
+               {
+               "cityID": 46108,
+               "cityName": "越南",
+               "parentId": 35
+               },
+               {
+               "cityID": 46109,
+               "cityName": "赞比亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46110,
+               "cityName": "泽西岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46111,
+               "cityName": "乍得",
+               "parentId": 35
+               },
+               {
+               "cityID": 46112,
+               "cityName": "直布罗陀",
+               "parentId": 35
+               },
+               {
+               "cityID": 46113,
+               "cityName": "智利",
+               "parentId": 35
+               },
+               {
+               "cityID": 46114,
+               "cityName": "中非共和国",
+               "parentId": 35
+               },
+               {
+               "cityID": 46116,
+               "cityName": "阿尔巴尼亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46117,
+               "cityName": "阿富汗",
+               "parentId": 35
+               },
+               {
+               "cityID": 46118,
+               "cityName": "阿拉伯联合酋长国",
+               "parentId": 35
+               },
+               {
+               "cityID": 46119,
+               "cityName": "阿鲁巴",
+               "parentId": 35
+               },
+               {
+               "cityID": 46120,
+               "cityName": "阿曼",
+               "parentId": 35
+               },
+               {
+               "cityID": 46121,
+               "cityName": "阿塞拜疆",
+               "parentId": 35
+               },
+               {
+               "cityID": 46122,
+               "cityName": "阿森松岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46123,
+               "cityName": "埃塞俄比亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46124,
+               "cityName": "爱沙尼亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46125,
+               "cityName": "安道尔",
+               "parentId": 35
+               },
+               {
+               "cityID": 46126,
+               "cityName": "安哥拉",
+               "parentId": 35
+               },
+               {
+               "cityID": 46127,
+               "cityName": "安圭拉",
+               "parentId": 35
+               },
+               {
+               "cityID": 46128,
+               "cityName": "安提瓜岛和巴布达",
+               "parentId": 35
+               },
+               {
+               "cityID": 46129,
+               "cityName": "奥兰群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46130,
+               "cityName": "巴巴多斯岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46131,
+               "cityName": "巴布亚新几内亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46132,
+               "cityName": "巴哈马",
+               "parentId": 35
+               },
+               {
+               "cityID": 46133,
+               "cityName": "巴基斯坦",
+               "parentId": 35
+               },
+               {
+               "cityID": 46134,
+               "cityName": "巴拉圭",
+               "parentId": 35
+               },
+               {
+               "cityID": 46135,
+               "cityName": "巴勒斯坦",
+               "parentId": 35
+               },
+               {
+               "cityID": 46136,
+               "cityName": "巴林",
+               "parentId": 35
+               },
+               {
+               "cityID": 46137,
+               "cityName": "巴拿马",
+               "parentId": 35
+               },
+               {
+               "cityID": 46138,
+               "cityName": "白俄罗斯",
+               "parentId": 35
+               },
+               {
+               "cityID": 46139,
+               "cityName": "百慕大",
+               "parentId": 35
+               },
+               {
+               "cityID": 46140,
+               "cityName": "保加利亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46141,
+               "cityName": "北马里亚纳群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46142,
+               "cityName": "贝宁",
+               "parentId": 35
+               },
+               {
+               "cityID": 46143,
+               "cityName": "比利时",
+               "parentId": 35
+               },
+               {
+               "cityID": 46144,
+               "cityName": "冰岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46145,
+               "cityName": "波多黎各",
+               "parentId": 35
+               },
+               {
+               "cityID": 46146,
+               "cityName": "波兰",
+               "parentId": 35
+               },
+               {
+               "cityID": 46147,
+               "cityName": "波斯尼亚和黑塞哥维那",
+               "parentId": 35
+               },
+               {
+               "cityID": 46148,
+               "cityName": "玻利维亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46149,
+               "cityName": "伯利兹",
+               "parentId": 35
+               },
+               {
+               "cityID": 46150,
+               "cityName": "博茨瓦纳",
+               "parentId": 35
+               },
+               {
+               "cityID": 46151,
+               "cityName": "不丹",
+               "parentId": 35
+               },
+               {
+               "cityID": 46152,
+               "cityName": "布基纳法索",
+               "parentId": 35
+               },
+               {
+               "cityID": 46153,
+               "cityName": "布隆迪",
+               "parentId": 35
+               },
+               {
+               "cityID": 46154,
+               "cityName": "布韦岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46155,
+               "cityName": "朝鲜",
+               "parentId": 35
+               },
+               {
+               "cityID": 46156,
+               "cityName": "东帝汶",
+               "parentId": 35
+               },
+               {
+               "cityID": 46157,
+               "cityName": "多哥",
+               "parentId": 35
+               },
+               {
+               "cityID": 46158,
+               "cityName": "多米尼加",
+               "parentId": 35
+               },
+               {
+               "cityID": 46159,
+               "cityName": "多米尼加共和国",
+               "parentId": 35
+               },
+               {
+               "cityID": 46160,
+               "cityName": "厄瓜多尔",
+               "parentId": 35
+               },
+               {
+               "cityID": 46161,
+               "cityName": "厄立特里亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46162,
+               "cityName": "法罗群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46163,
+               "cityName": "法属波利尼西亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46164,
+               "cityName": "法属圭亚那",
+               "parentId": 35
+               },
+               {
+               "cityID": 46165,
+               "cityName": "法属南部领地",
+               "parentId": 35
+               },
+               {
+               "cityID": 46166,
+               "cityName": "梵蒂冈",
+               "parentId": 35
+               },
+               {
+               "cityID": 46167,
+               "cityName": "菲律宾",
+               "parentId": 35
+               },
+               {
+               "cityID": 46168,
+               "cityName": "斐济",
+               "parentId": 35
+               },
+               {
+               "cityID": 46169,
+               "cityName": "佛得角",
+               "parentId": 35
+               },
+               {
+               "cityID": 46170,
+               "cityName": "弗兰克群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46171,
+               "cityName": "冈比亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46172,
+               "cityName": "刚果",
+               "parentId": 35
+               },
+               {
+               "cityID": 46173,
+               "cityName": "刚果民主共和国",
+               "parentId": 35
+               },
+               {
+               "cityID": 46174,
+               "cityName": "哥伦比亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46175,
+               "cityName": "哥斯达黎加",
+               "parentId": 35
+               },
+               {
+               "cityID": 46176,
+               "cityName": "格恩西岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46177,
+               "cityName": "格林纳达",
+               "parentId": 35
+               },
+               {
+               "cityID": 46178,
+               "cityName": "格陵兰",
+               "parentId": 35
+               },
+               {
+               "cityID": 46179,
+               "cityName": "古巴",
+               "parentId": 35
+               },
+               {
+               "cityID": 46180,
+               "cityName": "瓜德罗普",
+               "parentId": 35
+               },
+               {
+               "cityID": 46181,
+               "cityName": "关岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46182,
+               "cityName": "圭亚那",
+               "parentId": 35
+               },
+               {
+               "cityID": 46183,
+               "cityName": "哈萨克斯坦",
+               "parentId": 35
+               },
+               {
+               "cityID": 46184,
+               "cityName": "海地",
+               "parentId": 35
+               },
+               {
+               "cityID": 46185,
+               "cityName": "荷属安地列斯",
+               "parentId": 35
+               },
+               {
+               "cityID": 46186,
+               "cityName": "赫德和麦克唐纳群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46187,
+               "cityName": "洪都拉斯",
+               "parentId": 35
+               },
+               {
+               "cityID": 46188,
+               "cityName": "基里巴斯",
+               "parentId": 35
+               },
+               {
+               "cityID": 46189,
+               "cityName": "吉布提",
+               "parentId": 35
+               },
+               {
+               "cityID": 46190,
+               "cityName": "吉尔吉斯斯坦",
+               "parentId": 35
+               },
+               {
+               "cityID": 46191,
+               "cityName": "几内亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46192,
+               "cityName": "几内亚比绍",
+               "parentId": 35
+               },
+               {
+               "cityID": 46193,
+               "cityName": "加纳",
+               "parentId": 35
+               },
+               {
+               "cityID": 46194,
+               "cityName": "加蓬",
+               "parentId": 35
+               },
+               {
+               "cityID": 46195,
+               "cityName": "柬埔寨",
+               "parentId": 35
+               },
+               {
+               "cityID": 46196,
+               "cityName": "捷克共和国",
+               "parentId": 35
+               },
+               {
+               "cityID": 46197,
+               "cityName": "津巴布韦",
+               "parentId": 35
+               },
+               {
+               "cityID": 46198,
+               "cityName": "喀麦隆",
+               "parentId": 35
+               },
+               {
+               "cityID": 46199,
+               "cityName": "卡塔尔",
+               "parentId": 35
+               },
+               {
+               "cityID": 46200,
+               "cityName": "开曼群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46201,
+               "cityName": "科科斯群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46202,
+               "cityName": "科摩罗",
+               "parentId": 35
+               },
+               {
+               "cityID": 46203,
+               "cityName": "科特迪瓦",
+               "parentId": 35
+               },
+               {
+               "cityID": 46204,
+               "cityName": "科威特",
+               "parentId": 35
+               },
+               {
+               "cityID": 46205,
+               "cityName": "克罗地亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46206,
+               "cityName": "肯尼亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46207,
+               "cityName": "库克群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46208,
+               "cityName": "拉脱维亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46209,
+               "cityName": "莱索托",
+               "parentId": 35
+               },
+               {
+               "cityID": 46210,
+               "cityName": "老挝",
+               "parentId": 35
+               },
+               {
+               "cityID": 46211,
+               "cityName": "黎巴嫩",
+               "parentId": 35
+               },
+               {
+               "cityID": 46212,
+               "cityName": "立陶宛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46213,
+               "cityName": "利比里亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46214,
+               "cityName": "利比亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46215,
+               "cityName": "列支敦士登",
+               "parentId": 35
+               },
+               {
+               "cityID": 46216,
+               "cityName": "留尼旺岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46217,
+               "cityName": "卢森堡",
+               "parentId": 35
+               },
+               {
+               "cityID": 46218,
+               "cityName": "卢旺达",
+               "parentId": 35
+               },
+               {
+               "cityID": 46219,
+               "cityName": "罗马尼亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46220,
+               "cityName": "马达加斯加",
+               "parentId": 35
+               },
+               {
+               "cityID": 46221,
+               "cityName": "马尔代夫",
+               "parentId": 35
+               },
+               {
+               "cityID": 46222,
+               "cityName": "马耳他",
+               "parentId": 35
+               },
+               {
+               "cityID": 46223,
+               "cityName": "马拉维",
+               "parentId": 35
+               },
+               {
+               "cityID": 46224,
+               "cityName": "马里",
+               "parentId": 35
+               },
+               {
+               "cityID": 46225,
+               "cityName": "马其顿",
+               "parentId": 35
+               },
+               {
+               "cityID": 46226,
+               "cityName": "马绍尔群岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46227,
+               "cityName": "马提尼克",
+               "parentId": 35
+               },
+               {
+               "cityID": 46228,
+               "cityName": "马约特岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46229,
+               "cityName": "曼岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46230,
+               "cityName": "毛里求斯",
+               "parentId": 35
+               },
+               {
+               "cityID": 46231,
+               "cityName": "毛里塔尼亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46232,
+               "cityName": "美属萨摩亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46233,
+               "cityName": "美属外岛",
+               "parentId": 35
+               },
+               {
+               "cityID": 46234,
+               "cityName": "蒙古",
+               "parentId": 35
+               },
+               {
+               "cityID": 46235,
+               "cityName": "蒙特塞拉特",
+               "parentId": 35
+               },
+               {
+               "cityID": 46236,
+               "cityName": "孟加拉",
+               "parentId": 35
+               },
+               {
+               "cityID": 46237,
+               "cityName": "秘鲁",
+               "parentId": 35
+               },
+               {
+               "cityID": 46238,
+               "cityName": "密克罗尼西亚",
+               "parentId": 35
+               },
+               {
+               "cityID": 46239,
+               "cityName": "缅甸",
+               "parentId": 35
+               },
+               {
+               "cityID": 46240,
+               "cityName": "摩尔多瓦",
+               "parentId": 35
+               },
+               {
+               "cityID": 46241,
+               "cityName": "摩洛哥",
+               "parentId": 35
+               },
+               {
+               "cityID": 46242,
+               "cityName": "摩纳哥",
+               "parentId": 35
+               },
+               {
+               "cityID": 46243,
+               "cityName": "莫桑比克",
+               "parentId": 35
+               },
+               {
+               "cityID": 46244,
+               "cityName": "墨西哥",
+               "parentId": 35
+               },
+               {
+               "cityID": 46245,
+               "cityName": "纳米比亚",
+               "parentId": 35
+               }
+               ]
+  },
+  {
+  "countryID": 36,
+  "CountryName": "其他",
+  "ParentId": 0,
+  "cityList": [
+               {
+               "cityID": 566,
+               "cityName": "其他                                                ",
+               "parentId": 36
+               }
+               ]
+  }
+  ]
